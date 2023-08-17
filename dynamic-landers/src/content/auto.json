@@ -1,0 +1,94 @@
+{
+  "logo": "Car Gurus",
+  "brandname": "Car Gurus",
+  "brandurl": "cargurus.net",
+  "title": "Instant Approval For Car Loan",
+  "subtitle": "Lowest Interest Rates - Calculate EMI - Check Eligibility - Instant e-Approval - Special Offers",
+  "interestRates": [
+    {
+      "rate": "7.25%",
+      "description": "For New Car"
+    },
+    {
+      "rate": "8.30%",
+      "description": "For Old Car"
+    }
+  ],
+  "ctaButton": {
+    "text": "Why Choose Us ?",
+    "link": "#features"
+  },
+  "formSection": {
+    "heading": "Request Quote Now",
+    "subheading": "Easy to apply for a loan with us, Once you have completed this form."
+  },
+  "faqs": [
+    {
+      "question": "What are the eligibility criteria for a car loan?",
+      "answer": "To be eligible for a car loan, you typically need to have a steady source of income, a good credit score, and meet the minimum age requirements set by the lender."
+    },
+    {
+      "question": "How can I apply for a car loan?",
+      "answer": "You can apply for a car loan online through our website or visit one of our branches. The application process involves submitting your personal and financial information, along with the details of the car you intend to purchase."
+    },
+    {
+      "question": "What documents are required for a car loan application?",
+      "answer": "Common documents required for a car loan application include proof of identity, proof of address, income documents (such as pay stubs or tax returns), and details of the car you're purchasing."
+    },
+    {
+      "question": "How is the car loan interest rate determined?",
+      "answer": "The car loan interest rate is determined based on factors like your credit score, loan amount, loan tenure, and the type of car you're purchasing. A higher credit score and shorter loan tenure can often lead to a lower interest rate."
+    },
+    {
+      "question": "Can I prepay my car loan?",
+      "answer": "Yes, most car loans allow you to prepay your loan amount partially or in full. However, some lenders may charge a prepayment penalty or fee. It's important to check with your lender for their specific policies on prepayment."
+    },
+    {
+      "question": "What is the loan tenure for a car loan?",
+      "answer": "Car loan tenures typically range from 1 to 7 years, depending on the lender and your preference. Shorter loan tenures usually result in higher monthly payments but lower overall interest costs."
+    },
+    {
+      "question": "Are there any processing fees for a car loan?",
+      "answer": "Yes, many lenders charge processing fees for car loan applications. These fees cover administrative and processing costs. It's a good idea to inquire about the processing fees upfront before applying for a loan."
+    }
+  ],
+  "ctaSection": {
+    "title": "Ask about our low rate car loans?",
+    "description": "Have questions about our low rate car loans? Our team is here to help. Reach out to us for more information.",
+    "buttonText": "Ask Question",
+    "buttonLink": "#contact"
+  },
+    "reasonToChooseUs": {
+      "title": "Reason to Choose Us",
+      "description": "Bad credit is worse than a bad swing but at Cardomain.com your credit is good with us. Easy to apply for a loan with us, Once you have completed this form."
+    },
+    "features":
+    {
+       "image": "./assets/img/auto-reason.png",
+       "items":
+       [
+        {
+          "icon": "icon-check",
+          "title": "Easy Loan Approvals",
+          "description": "Get quick and easy loan approvals that fit your needs. Our streamlined process ensures a hassle-free experience."
+        },
+        {
+          "icon": "icon-clock",
+          "title": "Fast and FREE",
+          "description": "Experience fast and efficient service without any hidden fees. We value your time and offer free services to our customers."
+        },
+        {
+          "icon": "icon-user-follow",
+          "title": "Hassle-free",
+          "description": "Skip the complex paperwork and enjoy a hassle-free loan application process. Our team is here to guide you every step of the way."
+        },
+        {
+          "icon": "icon-lock",
+          "title": "100% Safe and Secure",
+          "description": "Your privacy and security are our top priorities. Rest assured that your personal information is safe with our advanced security measures."
+        }
+      ]
+  }
+  }
+  
+

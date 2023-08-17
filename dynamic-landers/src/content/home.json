@@ -1,0 +1,91 @@
+{
+  "logo": "Good Home Hub",
+  "brandname": "Good Home Hub",
+  "brandurl": "goodhomehub.org",
+  "title": "Find Your Dream Home",
+  "subtitle": "Lowest Mortgage Rates - Calculate Monthly Payments - Check Eligibility - Quick Pre-Approval - Exclusive Offers",
+  "interestRates": [
+    {
+      "rate": "3.75%",
+      "description": "Fixed Rate"
+    },
+    {
+      "rate": "4.50%",
+      "description": "Adjustable Rate"
+    }
+  ],
+  "ctaButton": {
+    "text": "Explore Loan Options",
+    "link": "#features"
+  },
+  "formSection": {
+    "heading": "Get Started Today",
+    "subheading": "Applying for a mortgage is simple. Complete the form below to get started."
+  },
+  "faqs": [
+    {
+      "question": "How do I apply for a mortgage?",
+      "answer": "Applying for a mortgage is easy! You can start by filling out our online application form on our website. Our team will review your application and guide you through the process."
+    },
+    {
+      "question": "What are the benefits of a fixed-rate mortgage?",
+      "answer": "A fixed-rate mortgage offers the benefit of consistent monthly payments throughout the loan term. It provides stability and predictability for homeowners."
+    },
+    {
+      "question": "What is an adjustable-rate mortgage (ARM)?",
+      "answer": "An adjustable-rate mortgage (ARM) is a type of mortgage where the interest rate changes periodically. It usually starts with a lower interest rate for an initial period and then adjusts based on market conditions."
+    },
+    {
+      "question": "How can I calculate my monthly mortgage payments?",
+      "answer": "You can use our online mortgage calculator to estimate your monthly payments based on the loan amount, interest rate, and loan term. It's a helpful tool for budgeting and planning."
+    },
+    {
+      "question": "What factors affect mortgage eligibility?",
+      "answer": "Mortgage eligibility is influenced by factors such as credit score, income, employment history, debt-to-income ratio, and the value of the property you're purchasing."
+    },
+    {
+      "question": "Can I get pre-approved for a mortgage?",
+      "answer": "Yes, we offer pre-approval services that provide you with an estimate of the loan amount you may qualify for. Pre-approval can give you an advantage when shopping for homes."
+    },
+    {
+      "question": "What is a down payment and how much do I need?",
+      "answer": "A down payment is a percentage of the home's purchase price that you pay upfront. The amount varies but is typically around 20%. A higher down payment may lead to better loan terms."
+    }
+  ],
+  "ctaSection": {
+    "title": "Ask about our low rate home loans?",
+    "description": "Curious about our low rate home loans? Our knowledgeable team is ready to answer your questions. Contact us today.",
+    "buttonText": "Ask Question",
+    "buttonLink": "#contact"
+  },
+    "reasonToChooseUs": {
+      "title": "Reason to Choose Us",
+      "description": "Looking for your dream home? We offer the lowest mortgage rates, easy monthly payment calculations, and quick pre-approval. Find exclusive offers that suit your needs."
+    },
+    "features":{ 
+      "image": "../assets/img/home-reason.png",
+      "items":
+      [
+      {
+        "icon": "icon-check",
+        "title": "Lowest Mortgage Rates",
+        "description": "Benefit from our lowest mortgage rates in the market. Save money on interest payments and enjoy affordable monthly payments."
+      },
+      {
+        "icon": "icon-clock",
+        "title": "Calculate Monthly Payments",
+        "description": "Use our user-friendly tools to calculate your monthly mortgage payments. Plan your budget effectively and make informed decisions."
+      },
+      {
+        "icon": "icon-user-follow",
+        "title": "Quick Pre-Approval",
+        "description": "Get pre-approved quickly and easily. Our efficient process helps you secure your dream home faster with confidence."
+      },
+      {
+        "icon": "icon-lock",
+        "title": "Exclusive Offers",
+        "description": "Unlock exclusive offers and deals when you choose our mortgage services. We prioritize your needs and offer personalized solutions."
+      }
+    ]  
+  }
+}
