@@ -4,7 +4,7 @@
 */
 // import 'core-js/stable'
 // import 'regenerator-runtime/runtime' // Needed to polyfill async / await.
-const baseUri = document.baseURI
+const baseUri = 'home' //document.baseURI
 // Import our top-level sass file.
 import './assets/bootstrap/css/bootstrap.min.css'
 import './assets/font-awesome/css/font-awesome.min.css'
