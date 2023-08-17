@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title><%= htmlWebpackPlugin.options.title %></title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
+    <% if (htmlWebpackPlugin.options.description) { %>
+    <meta
+      name="description"
+      content="<% htmlWebpackPlugin.options.description %>"
+    />
+    <% } %> <% if (htmlWebpackPlugin.options.mobileThemeColor) { %>
+    <meta
+      name="theme-color"
+      content="<% htmlWebpackPlugin.options.mobileThemeColor %>"
+    />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="<% htmlWebpackPlugin.options.mobileThemeColor %>"
+    />
+    <% } %>
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet" type='text/css'>
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  </head>
+  <body>
+    <div id="app"></div>
+  </body>
+</html>
