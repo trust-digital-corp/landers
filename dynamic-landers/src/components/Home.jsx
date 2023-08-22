@@ -11,8 +11,7 @@ const Home = ({data}) => {
     <>
         <Hero data={data}/>
         <Features data={data} />
-        <AditionalFeatures data={data} />
-        <RateCalculator />
+        
         <FAQs data={data} />
          <Footer data={data} /> 
     </>

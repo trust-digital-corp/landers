@@ -4,7 +4,7 @@
 */
 // import 'core-js/stable'
 // import 'regenerator-runtime/runtime' // Needed to polyfill async / await.
-const baseUri = 'home' //document.baseURI
+const baseUri = 'correspondence' //document.baseURI
 // Import our top-level sass file.
 import './assets/bootstrap/css/bootstrap.min.css'
 import './assets/font-awesome/css/font-awesome.min.css'
@@ -21,8 +21,12 @@ switch (true) {
   import('./styles/auto-custom.css'); // Import home-specific CSS
   data = require('./content/auto.json');
   break;
+  case baseUri.includes('correspondence'):
+  import('./styles/correspondence-custom.css')
+  data = require('./content/correspondence.json')
   default:
-    import('./styles/auto-custom.css'); // Import auto-specific CSS
+    import('./styles/correspondence-custom.css')
+    data = require('./content/correspondence.json') // Import auto-specific CSS
     break;
 }
 
